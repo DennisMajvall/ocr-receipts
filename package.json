@@ -1,0 +1,24 @@
+{
+  "name": "ocr-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisMajvall/ocr-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisMajvall/ocr-testing/issues"
+  },
+  "homepage": "https://github.com/DennisMajvall/ocr-testing#readme"
+}
