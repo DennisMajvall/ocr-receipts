@@ -61,3 +61,7 @@ typings/
 .next
 
 cloud vision test-5309d1897dbd\.json
+
+credentials\.json
+
+token\.json
