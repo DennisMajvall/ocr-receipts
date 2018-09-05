@@ -32,7 +32,7 @@ module.exports = new Promise((resolve) => {
       }
 
       oAuth2Client.setCredentials(JSON.parse(token));
-      console.log('Using existing token.');
+      // console.log('Using existing token.');
       resolve();
     });
   }
